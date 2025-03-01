@@ -75,6 +75,12 @@
 - [compiletest]()
 - [Side project ideas]()
 
+# rust-lang/rust: pull request author and review notes
+
+- [Section overview](rust-lang/rust/pr-notes/README.md)
+- [Individual PRs]()
+- [General remarks]()
+
 # Rust Project
 
 - [Section overview]()
