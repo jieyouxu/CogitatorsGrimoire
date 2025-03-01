@@ -55,8 +55,10 @@
     - [DWARF]()
 - [Object and executable file formats]()
     - [ELF]()
+    - [Mach-O]()
     - [COFF]()
     - [XCOFF]()
+    - [WASM]()
 - [Side project ideas]()
 
 # Code coverage
