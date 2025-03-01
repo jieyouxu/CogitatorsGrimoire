@@ -59,6 +59,12 @@
 - [compiletest]()
 - [Side project ideas]()
 
+# rust-lang/rust: Google Summer of Code (GSOC)
+
+- [Section overview](gsoc/README.md)
+- [GSoC 2024]()
+- [GSoC 2025]()
+
 # rust-lang/rustc-dev-guide
 
 - [Section overview]()
