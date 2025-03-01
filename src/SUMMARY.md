@@ -20,6 +20,10 @@
 
 - [Section overview]()
 
+# Cargo
+
+- [Section overview]()
+
 # LLVM
 
 - [Section overview]()
@@ -59,7 +63,11 @@
 - [compiletest]()
 - [Side project ideas]()
 
-# rust-lang/rust: Google Summer of Code (GSOC)
+# Rust Project
+
+- [Section overview]()
+
+# Rust Project x Google Summer of Code (GSoC)
 
 - [Section overview](gsoc/README.md)
 - [GSoC 2024]()
