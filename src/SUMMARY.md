@@ -19,6 +19,7 @@
 # Rust
 
 - [Section overview]()
+- [Crate types]()
 
 # Cargo
 
