@@ -59,6 +59,24 @@
 - [compiletest]()
 - [Side project ideas]()
 
+# rust-lang/rustc-dev-guide
+
+- [Section overview]()
+- [Side project ideas]()
+
+# Utilities
+
+- [Section overview](utilities/README.md)
+- [`git`]()
+- [GitHub `gh` cli]()
+- [LLVM bin tools]()
+    - [LLVM FileCheck]()
+- [`objcopy`]()
+- [`nm`]()
+- [`ldd`]()
+- [`lddtree`]()
+- [`ripgrep`]()
+
 ---
 
 [Glossary](glossary.md)
