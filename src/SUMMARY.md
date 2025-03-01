@@ -32,6 +32,18 @@
 
 - [Section overview]()
 
+# OS: Windows MSVC
+
+- [Section overview]()
+
+# OS: macOS
+
+- [Section overview]()
+
+# OS: Linux (general)
+
+- [Section overview]()
+
 # Linkers, linkage, symbols, debuginfo, object and executable file formats
 
 - [Section overview]()
