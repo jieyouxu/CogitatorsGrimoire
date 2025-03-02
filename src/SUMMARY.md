@@ -7,6 +7,7 @@
 
 - [Section overview](general/README.md)
 - [Side project ideas]()
+- [Edit distances]()
 
 # Compiler theory, language design and their references
 
