@@ -37,6 +37,8 @@
 # OS: Windows MSVC
 
 - [Section overview]()
+- [Assorted notes](os/windows-msvc/assorted-notes/README.md)
+    - [Cannot open input file `windows.0.52.0.lib`](os/windows-msvc/assorted-notes/windows-rs-linking.md)
 
 # OS: macOS
 
