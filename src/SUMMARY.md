@@ -85,6 +85,12 @@
 - [Individual PRs]()
 - [General remarks]()
 
+# rust-lang/rust: issue investigation notes
+
+- [Section overview](rust-lang/rust/issue-notes/README.md)
+- [Individual issues](rust-lang/rust/issue-notes/issues/README.md)
+- [General remarks]()
+
 # Rust Project
 
 - [Section overview]()
