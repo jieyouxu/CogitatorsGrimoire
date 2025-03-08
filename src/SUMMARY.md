@@ -74,6 +74,8 @@
 
 - [Section overview]()
 - [Side project ideas]()
+- [Utilities](rust-lang/rust/compiler/utilities/README.md)
+    - [`rustup-toolchain-install-master`](rust-lang/rust/compiler/utilities/rustup-toolchain-install-master.md)
 
 # rust-lang/rust: bootstrap and bootstrap team, test infrastructure
 
