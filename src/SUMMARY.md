@@ -81,9 +81,10 @@
 
 # rust-lang/rust: bootstrap and bootstrap team, test infrastructure
 
-- [Section overview]()
-- [Test infra]()
-- [compiletest]()
+- [Section overview](bootstrap/README.md)
+- [Test infra](bootstrap/test-infra/README.md)
+    - [compiletest](bootstrap/test-infra/compiletest/README.md)
+    - [`run-make` test infrastructure](bootstrap/test-infra/run-make/README.md)
 - [Side project ideas]()
 
 # rust-lang/rust: pull request author and review notes
