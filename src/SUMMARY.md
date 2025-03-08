@@ -118,7 +118,7 @@
 # Utilities
 
 - [Section overview](utilities/README.md)
-- [`git`]()
+- [`git`](utilities/git/README.md)
 - [GitHub `gh` cli]()
 - [LLVM bin tools]()
     - [LLVM FileCheck]()
