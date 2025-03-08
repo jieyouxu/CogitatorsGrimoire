@@ -6,7 +6,8 @@
 # General notes
 
 - [Section overview](general/README.md)
-- [Side project ideas]()
+- [Side project ideas](general/side-project-ideas/README.md)
+    - [rustup toolchain manager TUI](general/side-project-ideas/rustup-toolchain-manager-tui.md)
 - [Edit distances]()
 
 # Compiler theory, language design and their references
