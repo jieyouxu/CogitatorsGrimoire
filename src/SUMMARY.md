@@ -85,6 +85,7 @@
 - [Test infra](bootstrap/test-infra/README.md)
     - [compiletest](bootstrap/test-infra/compiletest/README.md)
     - [`run-make` test infrastructure](bootstrap/test-infra/run-make/README.md)
+    - [This Month In Our Test Infra newsletter](bootstrap/test-infra/newsletter/README.md)
 - [Side project ideas]()
 
 # rust-lang/rust: pull request author and review notes
