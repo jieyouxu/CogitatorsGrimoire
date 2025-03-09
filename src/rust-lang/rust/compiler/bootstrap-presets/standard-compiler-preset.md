@@ -13,7 +13,7 @@ change-id = 999999
 
 [llvm]
 download-ci-llvm = true
-#assertions = true
+assertions = true          # downloads CI alt LLVM w/ debug assertions
 
 [rust]
 codegen-backends = ["llvm"]
