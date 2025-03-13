@@ -112,7 +112,8 @@
 
 # rust-lang/rustc-dev-guide
 
-- [Section overview]()
+- [Section overview](rust-lang/rustc-dev-guide/README.md)
+    - [Josh sync](rust-lang/rustc-dev-guide/josh-sync.md)
 - [Side project ideas]()
 
 # Utilities
