@@ -4,6 +4,7 @@ I maintain an (approximately monthly) *This Month In Our Test Infra* newsletter 
 
 ## Past issues
 
+- <https://blog.rust-lang.org/inside-rust/2025/03/11/test-infra-jan-feb-2025.html>
 - <https://blog.rust-lang.org/inside-rust/2025/01/10/test-infra-dec-2024.html>
 - <https://blog.rust-lang.org/inside-rust/2024/12/09/test-infra-nov-2024.html>
 - <https://blog.rust-lang.org/inside-rust/2024/11/04/test-infra-oct-2024-2.html>
