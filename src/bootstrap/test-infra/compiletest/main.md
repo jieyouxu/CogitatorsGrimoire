@@ -69,6 +69,16 @@ Frankly, I'm not sure how [`compiletest`] handles cross-compile scenarios.
 
 > TODO: how does [`compiletest`], bootstrap and `remote-test-client` work together?
 
+### There are no self-tests but compiletest needs to be rock solid
+
+We are the tester. But [Who tests the tester?](https://github.com/rust-lang/rust/issues/47606)? A long-standing problem.
+
+- [`compiletest`] was always kind of a sideline tooling thing where it had no real dedicated maintainer (let alone maintenance team).
+- The implementation over the years mostly just *happened* but not much consideration was given for the overall picture since people changed [`compiletest`] to support their specific needs (reasonably and understandably so!).
+- [`compiletest`] really needs significant amounts of self-test coverage:
+    - Unit tests, snapshot tests, configuration tests, environment tests, you name it.
+    - Also proper ways to perform E2E integration tests.
+
 
 [`compiletest`]: https://github.com/rust-lang/rust/tree/master/src/tools/compiletest
 [compiletest-rs]: https://github.com/Manishearth/compiletest-rs
