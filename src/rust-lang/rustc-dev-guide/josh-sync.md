@@ -32,6 +32,8 @@ $ cargo run --manifest-path josh-sync/Cargo.toml rustc-pull
     name = ...
     email = ...
     signingKey = ...
+[url "git@github.com:"]
+	insteadOf = "https://github.com/"
 ```
 
 then repoint git to use this instead of my actual global git config. The modified invocation looks like
@@ -44,7 +46,13 @@ You may have to fix merge conflicts as one does.
 
 ### rustc-push
 
-TODO
+Something *else* in my global git config breaks the push direction, so remember to also use the minimal git config.
+
+The incantation (for me) looks like:
+
+```bash
+$ RUSTC_GIT=../rust/ cargo +stable run --manifest-path josh-sync/Cargo.toml -- rustc-push rdg-sync jieyouxu
+```
 
 
 [rustc-dev-guide]: https://github.com/rust-lang/rustc-dev-guide
