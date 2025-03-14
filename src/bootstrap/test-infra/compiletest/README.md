@@ -1,5 +1,7 @@
 # compiletest
 
+> Last reviewed: 2025-03-14
+
 [`compiletest`] is the main test harness for rustc test suites.
 
 ## Key concepts

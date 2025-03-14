@@ -84,6 +84,7 @@
 - [Section overview](bootstrap/README.md)
 - [Test infra](bootstrap/test-infra/README.md)
     - [compiletest](bootstrap/test-infra/compiletest/README.md)
+        - [compiletest binary](bootstrap/test-infra/compiletest/main.md)
     - [`run-make` test infrastructure](bootstrap/test-infra/run-make/README.md)
     - [This Month In Our Test Infra newsletter](bootstrap/test-infra/newsletter/README.md)
 - [Side project ideas]()
